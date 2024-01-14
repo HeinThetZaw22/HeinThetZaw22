@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hein Thet Zaw</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **heinthetzaw2212@gmail.com**
 
