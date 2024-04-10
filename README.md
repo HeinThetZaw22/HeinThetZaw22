@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hein Thet Zaw</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **TypeScript** and **Larvel**
+- 🌱 I’m currently learning **TypeScript** and **Laravel**
 
 
 <h3 align="left">Languages and Tools:</h3>
