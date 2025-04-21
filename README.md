@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning react-native for app development<br>🎯 Goals: Fullstack developer<br>🎲 Fun fact: I debug my code faster with snacks 🍪 and chatgpt </p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning react-native for app development<br>🎯 Goals: Fullstack developer<br> </p>
 
 ###
 
